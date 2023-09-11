@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Testing 1",
+    "dob": "01/01/1990",
+    "gender": "Male",
+    "email": "abcd@gmail.com",
+    "contact": "9191919191"
+  },
+  {
+    "name": "Testing 2",
+    "dob": "01/04/2005",
+    "gender": "Female",
+    "email": "xyz@gmail.com",
+    "contact": "1234567890"
+  },
+  {
+    "name": "Test 3",
+    "dob": "10-02-2000",
+    "gender": "Male",
+    "email": "test@gmail.com",
+    "contact": "7373737322"
+  }
+]

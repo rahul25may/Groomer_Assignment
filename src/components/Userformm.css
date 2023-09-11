@@ -1,0 +1,48 @@
+.user-main {
+    margin: 0 auto;
+    border: 0.5px solid black;
+    width: 420px;
+    height: 450px;
+    margin-top: 100px;
+    background: #2ad4e2;
+    border-radius: 8px;
+    filter: drop-shadow(0px 0px 6px black);
+}
+.form-div {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 0 10px;
+    align-items: center;
+}
+input {   
+    width: 58%;
+    height: 21px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+input:hover {
+    filter: drop-shadow(0px 0px 1px black);
+    transition: 0.2s ease-in-out;
+}
+
+button {
+    width: 77px;
+    height: 35px;
+    margin-top: 10px;
+    background-color: #3c7acc;
+    border-radius: 5px;
+    color: white;
+    font-size: 17px;
+    border: 2px solid #3c7acc;
+}
+button:hover {
+    background-color: #022c63;
+    transition: 0.5s ease-in-out;
+}
+label {font-size: 16px;
+    color: darkred;
+    font-weight: 600;
+    padding-bottom: 6px;
+    padding-top: 5px;
+}
